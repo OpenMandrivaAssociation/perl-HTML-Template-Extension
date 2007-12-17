@@ -17,7 +17,6 @@ BuildRequires:	perl-devel
 BuildRequires:	perl(HTML::Parser)
 BuildRequires:	perl(HTML::Template)
 BuildArch:	    noarch
-BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
 %description
 This module extends HTML::Template to easily support methods and tags not
